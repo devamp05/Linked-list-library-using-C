@@ -7,7 +7,7 @@
  * pvj636
  * 11270494
  */
-/* Copyright © 2024 Devam Patel
+/* Copyright © 2024 Devam Patel*/
 
 #include <stdio.h>
 #include <stdlib.h>
