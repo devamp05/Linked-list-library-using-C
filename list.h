@@ -7,7 +7,7 @@
  * pvj636
  * 11270494
  */
-/* Copyright © 2024 Devam Patel
+/* Copyright © 2024 Devam Patel*/
 
 #ifndef __LIST_H__
 #define __LIST_H__         /* To avoid multiple copies*/
