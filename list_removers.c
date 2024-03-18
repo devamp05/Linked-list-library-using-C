@@ -3,6 +3,7 @@
  * NSID: pvj636 / dns682
  * Student Numbers: 11270494 / 11316715
  */
+/* Copyright © 2024 Devam Patel*/
 
 #include<stdio.h>
 #include<stdlib.h>
